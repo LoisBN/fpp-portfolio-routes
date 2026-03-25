@@ -4,8 +4,11 @@ Build a 4-page portfolio site with React Router v7. Practice file-based routing,
 
 ## Quick Start
 
+**1. Fork this repo** — Click the **Fork** button at the top right of this page.
+
+**2. Clone your fork:**
 ```bash
-git clone https://github.com/LoisBN/fpp-portfolio-routes.git
+git clone https://github.com/YOUR-GITHUB-USERNAME/fpp-portfolio-routes.git
 cd fpp-portfolio-routes
 npm install
 cp .env.example .env
